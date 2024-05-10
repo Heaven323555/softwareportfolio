@@ -1,9 +1,9 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="https://github.com/Heaven323555/softwareportfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/Heaven323555/softwareportfolio)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://sudhar.netlify.app/).
 
 ---
 
@@ -109,29 +109,27 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/Heaven323555/softwareportfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
+  name: "SUDHARSANAN SK",
+  designation: "Software Developer",
+  description: "My name is SUDHARSANAN. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  email: 'sudharsanansk2001@gmail.com',
+  phone: '+916383621588',
+  address: 'vattamalai,katheri,sankari,salem -638183 ',
+  github: 'https://github.com/Heaven323555/',
+  facebook: 'https://www.facebook.com/sudharsanan.sudharsanan.923/',
+  linkedIn: 'www.linkedin.com/in/sudharsanan-shanmugam-51a596214/',
+  twitter: 'https://twitter.com/Sudhars07858471/',
+  stackOverflow: 'https://stackoverflow.com/users/24970382/sudharsanan/',
+  leetcode: "https://leetcode.com/u/Heaven323555/",
+  devUsername: "Heaven323555",
+  resume: "https://drive.google.com/file/d/1c8wNCQaSMJ-n4wk81PG5_bJxHS5v0UNR/view?usp=drive_link"
+}
 
 `devUsername` Used for fetching blog from `dev.to`.
 
