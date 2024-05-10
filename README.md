@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://sudhar.netlify.app/).
+## View live preview [here](https://sudharsanan.netlify.app/).
 
 ---
 
