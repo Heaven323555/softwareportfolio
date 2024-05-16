@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Software Developer Intern",
+    title: "Developer Intern",
     company: "DAG Technologies",
     duration: "(July 2023 - December 2023)"
   },
