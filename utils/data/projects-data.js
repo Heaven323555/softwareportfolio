@@ -46,7 +46,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
     },
     {
-        id: 4,
+        id: 5,
         name: 'The Bike Spares Inventory System ',
         description: "The Bike Spares Inventory System is a user-friendly desktop application developed using the .NET MAUI Blazor framework. It features role-based access control, user management, and inventory management capabilities. The application allows for the addition and deduction of spare parts stocks, with constraints based on weekdays and work time. It offers a dashboard for quick insights and supports dark mode for improved user experience.",
         tools: ['.NET MAUI Blazor', 'C#', 'XAML', 'Role-based Access Control', 'JSON Web Tokens (JWT)', 'Pandas', 'Scikit-learn']
@@ -55,6 +55,27 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'Full Stack Developer',
+    },
+    {
+        id: 6,
+        name: 'Idle Mechanic using Unity ',
+        description: "Developed an immersive Unity game leveraging C# for robust functionality and engaging gameplay. Utilized Unity's powerful engine to create a dynamic and interactive gaming experience. Implemented innovative features and mechanics to captivate players and enhance overall gameplay. Designed intuitive user interfaces and optimized performance for seamless gaming sessions. Employed best practices in game development to ensure a polished final product that meets the highest standards of quality and player satisfaction.",
+        tools: [ 'C#','Unity','Blender']
+        ,
+        code: '',
+        demo: '',
+        image: ayla,
+        role: 'Unity Developer',
+    },
+    {
+        id: 7,
+        name: 'FirstPlayer Shooting game multiplayer ',
+        description: "Dive into the heart-pounding world of multiplayer FPS gaming with our Unity-powered game. Crafted with C# for robust functionality and engaging gameplay, this game utilizes Unity's powerful engine to deliver a dynamic and interactive gaming experience. Immerse yourself in fast-paced battles and tactical gameplay as you compete against players from around the globe. With innovative features and mechanics, our game is designed to captivate players and keep them on the edge of their seats. Experience intuitive user interfaces and optimized performance for seamless gaming sessions. We've employed best practices in game development to ensure a polished final product that meets the highest standards of quality and player satisfaction.",
+        tools: [ 'C#','Unity','Blender'],
+        code: '',
+        demo: '',
+        image: ayla,
+        role: 'Unity Developer',
     }
 ];
 
