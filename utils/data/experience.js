@@ -13,8 +13,8 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Research Intern",
-    company: "Pantech Solutions Pvt Ltd",
-    duration: "(May 2023 - June 2023)"
+    title: "Teaching Assistant",
+    company: "Excel College of Engineering",
+    duration: "( JUNE 2024 - TILL NOW )"
   }
 ]
