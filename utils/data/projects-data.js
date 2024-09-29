@@ -58,24 +58,24 @@ export const projectsData = [
     },
     {
         id: 6,
-        name: 'Idle Mechanic using Unity ',
-        description: "Developed an immersive Unity game leveraging C# for robust functionality and engaging gameplay. Utilized Unity's powerful engine to create a dynamic and interactive gaming experience. Implemented innovative features and mechanics to captivate players and enhance overall gameplay. Designed intuitive user interfaces and optimized performance for seamless gaming sessions. Employed best practices in game development to ensure a polished final product that meets the highest standards of quality and player satisfaction.",
-        tools: [ 'C#','Unity','Blender']
+        name: 'CodeMapper ',
+        description: "Developed an innovative mapping tool using C++ to visualize complex data structures and algorithms. Utilized C++’s performance capabilities to create a fast and responsive application tailored for developers and learners. Implemented features such as real-time data visualization, interactive tutorials, and customizable settings to enhance user engagement and understanding. Designed an intuitive user interface to facilitate ease of use and optimized performance for seamless interactions. Followed industry best practices in software development to ensure a high-quality final product that effectively meets user needs.",
+        tools: [' C++', 'Algorithm Design', 'Software Engineering']
         ,
         code: '',
         demo: '',
         image: ayla,
-        role: 'Unity Developer',
+        role: 'C++ Developer',
     },
     {
         id: 7,
-        name: 'FirstPlayer Shooting game multiplayer ',
-        description: "Dive into the heart-pounding world of multiplayer FPS gaming with our Unity-powered game. Crafted with C# for robust functionality and engaging gameplay, this game utilizes Unity's powerful engine to deliver a dynamic and interactive gaming experience. Immerse yourself in fast-paced battles and tactical gameplay as you compete against players from around the globe. With innovative features and mechanics, our game is designed to captivate players and keep them on the edge of their seats. Experience intuitive user interfaces and optimized performance for seamless gaming sessions. We've employed best practices in game development to ensure a polished final product that meets the highest standards of quality and player satisfaction.",
-        tools: [ 'C#','Unity','Blender'],
+        name: 'Route-Planning ',
+        description: "Developed a robust route-planning application using C++ that implements the A* algorithm to optimize navigation and travel efficiency. Leveraged the A* algorithm's heuristic approach to calculate optimal routes based on various factors such as distance, time, and traffic conditions. Implemented features like real-time route adjustments and user-defined preferences to enhance the overall user experience. Designed an intuitive user interface to facilitate ease of navigation and interaction. Followed best practices in software engineering to ensure a reliable and efficient application that effectively meets the needs of users seeking effective travel solutions.",
+        tools: [  'C++', 'A* Algorithm', 'Algorithm Design', 'Software Development'],
         code: '',
         demo: '',
         image: ayla,
-        role: 'Unity Developer',
+        role: 'c++ Developer',
     }
 ];
 
